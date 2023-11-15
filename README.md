@@ -116,7 +116,7 @@ print(string.isupper()) #True
 ```
 Consultado en https://uniwebsidad.com/libros/python/capitulo-6/metodos-de-validacion
 
-**2.** Procesar el [archivo](https://drive.google.com/file/d/1lGmlAz157fIDp2zk95KInTSJguZusI91/view?usp=sharing) y extraer:
+**2.** Procesar el [archivo]("C:\Users\57312\Downloads\texto.txt") y extraer:
 
 - Cantidad de vocales
 - Cantidad de consonantes
