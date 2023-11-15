@@ -1,4 +1,4 @@
-# Reto-12
+# Reto Doce
 
 En este repo se desarrollará la solución de los siguientes puntos dados en clase de programación:
 
@@ -116,10 +116,8 @@ print(string.isupper()) #True
 ```
 Consultado en https://uniwebsidad.com/libros/python/capitulo-6/metodos-de-validacion
 
-**2.** Procesar un archivo y extraer:
+**2.** Procesar el [archivo](https://drive.google.com/file/d/1lGmlAz157fIDp2zk95KInTSJguZusI91/view?usp=sharing) y extraer:
 
 - Cantidad de vocales
 - Cantidad de consonantes
 - Listado de las 50 palabras que más se repiten
-- Listado de destinatarios con cantidad de mensajes recibidos
-- Cantidad de mensajes enviados por cada día
