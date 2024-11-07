@@ -1,8 +1,6 @@
-# Reto Doce
+# Doce
 
-En este repo se desarrollará la solución de los siguientes puntos dados en clase de programación:
-
-**1.** Consulte que hacen los siguientes métodos de strings en python: endswith, startswith, isalpha, isalnum, isdigit, isspace, istitle, islower, isupper.
+**1.** Métodos de strings en python: endswith, startswith, isalpha, isalnum, isdigit, isspace, istitle, islower, isupper.
 
 ## Métodos de strings
 Estos métodos de strings retornan True o False.
